@@ -1,0 +1,1 @@
+This repository contains the same code as FastKNN but on a separate dataset, known as the Fashion MNIST dataset. It's a lot more difficult to accurately predict the fashion images, so the accuracy of the program was slightly lower.
